@@ -1,5 +1,5 @@
 # 👋 Hey there, I'm Sanchit Saini (@Sanchit-bit)  
-🎯 Turning Ideas into Reality | 💻 Full Stack Developer in Progress | 📊 Tech + Business Enthusiast
+🎯 Turning Ideas into Reality | 💻 Full Stack Developer | 📊 Tech + Business Enthusiast | Data Science Engineer in progress
 
 ---
 
@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/cpp-%23ED8B00.svg?style=for-the-badge&logo=cpp&logoColor=white"/>
 </p>
 
 ---
