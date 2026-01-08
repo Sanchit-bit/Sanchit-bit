@@ -30,7 +30,7 @@
 
 - 💰 [SmartExpenseTracker](https://github.com/Sanchit-bit/SmartExpenseTracker) – Python + Excel based expense tracker.
 - 🎓 [StudentManager](https://github.com/Sanchit-bit/StudentManager) – Java-based student record manager with file saving.
-- 🎥 [Realtime-Sentiment-Analysis](https://github.com/Sanchit-bit/NetflixClone) – HTML/CSS/JS clone of Netflix homepage.
+- 🎥 [Realtime-Sentiment-Analysis](https://github.com/Sanchit-bit/Realtime-Sentiment-Analysis.git) – Live sentiment detector for mixed languages (Hindi+Eng) with auto-moderation.
 - 🌐 [Portfolio Website](https://github.com/Sanchit-bit/Portfolio) – My personal live portfolio.
 
 ---
